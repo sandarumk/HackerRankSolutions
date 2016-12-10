@@ -69,7 +69,7 @@ public class JavaStringsIntroduction {
         }else{
             System.out.println ("No");
         }
-        
+
         //Capitalize the first letter
         A = A.substring(0,1).toUpperCase()+A.substring(1,lengthA);
         B = B.substring(0,1).toUpperCase()+B.substring(1,lengthB);
