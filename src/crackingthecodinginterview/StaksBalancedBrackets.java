@@ -1,4 +1,4 @@
-/**
+package crackingthecodinginterview; /**
  * For each string, print whether or not the string of brackets is balanced on a new line. If the brackets are balanced, print YES; otherwise, print NO.
  * https://www.hackerrank.com/challenges/ctci-balanced-brackets
  * Created by dinuk on 12/28/2016.
